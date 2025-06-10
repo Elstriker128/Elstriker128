@@ -16,18 +16,18 @@ Hi there! I'm Dovydas — an ambitious and motivated Computer Science student wi
 # 🚀 Projects
 Here are some the main prrojects that i have been working on:
 
-- 🔹 [**Student management system**](https://github.com/Elstriker128/Student_Grade_Management_System)  
+ 🔹 [**Student management system**](https://github.com/Elstriker128/Student_Grade_Management_System)  
   A system that implements key features such as user registration, class and subject assignments, grading functionality, and timetable views for students, teachers, and parents.<br>
   _Tech: C#, ASP.NET MVC_
 
-- 🔹 [**Youtube to MP3 converter**](https://github.com/Elstriker128/Youtube_MP3_Converter)  
+ 🔹 [**Youtube to MP3 converter**](https://github.com/Elstriker128/Youtube_MP3_Converter)  
   A Windows Forms application which transforms a Youtube video link to a playable and downloadable MP3 file.<br> 
   _Tech: C#, Windows Forms, API_
 
-- 🔹 [**Currency converter**](https://github.com/Elstriker128/Currency_Convertor)  
+ 🔹 [**Currency converter**](https://github.com/Elstriker128/Currency_Convertor)  
   A WPF application that uses an exchange rate API to convert a given amount into one of 161 supported currencies.<br>
   _Tech: C#, WPF, API_
 
-- 🔹 [**Calculator**](https://github.com/Elstriker128/Calculator_App)  
+ 🔹 [**Calculator**](https://github.com/Elstriker128/Calculator_App)  
   A scientific calculator built in C# as a desktop application.<br> 
   _Tech: C#, WPF_
