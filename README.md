@@ -5,7 +5,7 @@ Hi there! I'm Dovydas — an ambitious and motivated Computer Science student wi
 
 🎯 My goal is to become a full-stack developer, contributing to impactful software that improves lives.
 
-🧠 Currently exploring: Blazor, Docker, Azure inner workings  
+🧠 Currently exploring: Blazor, Docker, complex data structures  
 🌱 Learning Next: Clean Architecture, JavaScript fundamentals
 
 🎨 My Hobbies: 🎮 Gaming | 🖥️ Learning about computers | ☕ Coffee Enthusiast
